@@ -9,11 +9,11 @@ Full-Stack Artnest with Admin Dashboard & Paytm Payment Gateway.
 - #### cd client
 - #### npm install
 - #### cd..
-- #### npm run dev
-
-### Node version: 16.20.0
 
 
+
+
+update
 
 
 
