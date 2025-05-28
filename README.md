@@ -16,19 +16,5 @@ Full-Stack Artnest with Admin Dashboard & Paytm Payment Gateway.
 update
 new update
 
-new update
 
-new update
-
-new update
-
-new update
-new update
-new update
-new update
-new update
-new update
-new update
-new updatenew updatenew update
-new updatenew updatenew updatenew updatenew updatenew update
 
