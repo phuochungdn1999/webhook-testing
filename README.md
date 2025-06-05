@@ -9,7 +9,7 @@ Full-Stack Artnest with Admin Dashboard & Paytm Payment Gateway.
 - #### cd client
 - #### npm install
 - #### cd..
-
+12
 
 
 
